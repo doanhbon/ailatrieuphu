@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Đỗ Anh Bôn",
+    "mssv": "17106301",
+    "phoneNumber": "0389312630",
+    "birthDay": "25/11/1999",
+    "class": "DHKTPM13A",
+    "imageUrl": "assets/img/28423320_563461587353028_7523200284370332905_o.jpg"
+  },
+  {
+    "name": "Lê Chí Bảo",
+    "mssv": "17106591",
+    "phoneNumber": "0393649965",
+    "birthDay": "28/08/1999",
+    "class": "DHKTPM13A",
+    "imageUrl": "assets/img/28423320_563461587353028_7523200284370332905_o.jpg"
+  },
+  {
+    "name": "Hầu Văn Phương",
+    "mssv": "16199491",
+    "phoneNumber": "0356677521",
+    "birthDay": "30/09/98",
+    "class": "DHCNTT12A",
+    "imageUrl": "assets/img/28423320_563461587353028_7523200284370332905_o.jpg"
+  }
+]

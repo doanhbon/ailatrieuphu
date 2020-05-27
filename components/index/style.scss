@@ -1,0 +1,101 @@
+.indexPage {
+  width: 100%;
+  // display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .title {
+    font-weight: bold;
+    margin-top: 48px;
+  }
+
+  .input {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
+
+    div {
+      color: white;
+      font-weight: bold;
+      font-size: 20px;
+      padding-right: 50px;
+    }
+
+    input {
+      border: 3px solid white;
+      border-radius: 8px;
+      background: #f9bc60;
+      padding: 4px;
+      color: white;
+      font-size: 20px;
+    }
+  }
+
+  .groups {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    // border: 2px solid white;
+    // width: 30vw;
+
+    .group {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border: 3px solid white;
+      border-radius: 8px;
+      background: #abd1c6;
+      padding: 4px;
+      margin-top: 16px;
+      color: white;
+      font-size: 15px;
+      width: 25vw;
+
+      button {
+        background: transparent;
+        text-decoration: underline;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .btnStart {
+    background: transparent;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+    margin-top: 16px;
+  }
+}
+
+.info-team {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: #e16162;
+  .item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+
+    img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+    }
+  }
+}

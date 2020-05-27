@@ -1,0 +1,238 @@
+@import './colors.scss';
+@import './fonts.scss';
+
+* {
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+* {
+  word-break: keep-all;
+}
+
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+body {
+  line-height: 1;
+  background-color: rgba($color: $background-color-main, $alpha: 1) !important;
+  font-family: $font-family-main !important;
+  // font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 96px;
+  letter-spacing: -1.5;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 60px;
+  letter-spacing: -0.5;
+}
+
+h3 {
+  font-weight: 300;
+  font-size: 48px;
+  letter-spacing: 0;
+}
+
+h4 {
+  font-weight: 300;
+  font-size: 34px;
+  letter-spacing: 0.25;
+}
+
+h5 {
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+h6 {
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.15;
+}
+
+button,
+button {
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1.25;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+nav ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+/* change colours to suit your needs */
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* change border colour to suit your needs */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cccccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+input,
+select {
+  vertical-align: middle;
+}
+/*set border of button, text,... none*/
+
+button,
+input,
+select,
+textarea {
+  outline: none;
+  border: none;
+}
+
+@import 'components/index/style.scss';
+@import 'components/instructionpage/style.scss';
+@import 'components/gameplay/style.scss';
+@import 'components/wingame/style.scss';

@@ -1,0 +1,402 @@
+[
+  {
+    "question": "L.x Vygotsky (nhà tâm lý học) đã căn cứ vào thời điểm nào để xác định thời kỳ phát triển tâm lý?",
+    "answers" : [
+      {"A": "Khi một người bắt đầu phát triển toàn vẹn cảm xúc"},
+      {"B": "Khi sự phát triển tâm lý có sự đột biến"},
+      {"C": "Khi tâm lý phát triển ở độ tuổi dậy thì"},
+      {"D": "Thời điểm phụ thuộc vào hoạt động sinh hoạt hằng ngày"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Theo nghĩa rộng, ý thức là gì?",
+    "answers" : [
+      {"A": "Là tinh thần, là tư tưởng"},
+      {"B": "Xúc giác"},
+      {"C": "Tri giác"},
+      {"D": "Nhận thức"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Ta có thể nói ý thức như \"cặp mắt thứ hai\" soi vào kết quả (hình ảnh tâm lý) do \"cặp mắt thứ nhất\" (cảm giác, tri giác,...). Câu này có nghĩa là ?",
+    "answers" : [
+      {"A": "Ý thức là tồn tại của nhận thức"},
+      {"B": "Nhận thức chính là kết quả của ý thức"},
+      {"C": "Nhận thức phản ánh ý thức"},
+      {"D": "Không đáp án nào phía trên là đúng"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Đáp án nào sau đây không phải là một mặt của ý thức?",
+    "answers" : [
+      {"A": "Mặt nhận thức"},
+      {"B": "Mặt thái độ"},
+      {"C": "Mặt hành vi"},
+      {"D": "Mặt năng động của ý thức"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Cấp độ nào sau đây không thuộc các cấp độ ý thức?",
+    "answers" : [
+      {"A": "Cấp độ chưa ý thức"},
+      {"B": "Cấp độ ý thức cưỡng ép"},
+      {"C": "Cấp độ ý thức và tự ý thức"},
+      {"D": "Cấp độ ý thức nhóm và tập thể"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Vai trò nào sau đây là của lao động với sự hình thành ý thức?",
+    "answers" : [
+      {"A": "Giúp con người có ý thức về việc sử dụng dụng cụ lao động"},
+      {"B": "Phân tích đối chiếu kết quả mình làm ra"},
+      {"C": "Giúp phát triển khả năng phối hợp với nhau"},
+      {"D": "Không có đáp án nào phía trên là đúng"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Điều nào sau đây là sự khác biệt giữa con người và con vật?",
+    "answers" : [
+      {"A": "Có ý thức về cái mình làm ra"},
+      {"B": "Có ý thức về việc duy trì nòi giống"},
+      {"C": "Có ý thức về điều mình sẽ làm (kiếm ăn, uống nước,...)"},
+      {"D": "Không có đáp án nào đúng"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Ý nào sau đây là sai?",
+    "answers" : [
+      {"A": "Di truyền đóng vai trò đáng kể trong sự hình thành và phát triển tâm lý"},
+      {"B": "Kinh nghiệm xã hội đóng vai trò rất lớn trong sự phát triển tâm lý"},
+      {"C": "Trẻ sinh cùng trứng thì thu được kết quả hai trẻ có tâm lý khác nhau ở hai môi trường khác nhau"},
+      {"D": "Không có câu nào là sai"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Ý nào sau đây là đúng về phản xạ không điều kiện?",
+    "answers" : [
+      {"A": "Phản xạ không điều kiện không chịu chi phối của sự phát triển lịch sử, xã hội.n"},
+      {"B": "Phản xạ không điều kiện giúp cơ thể thích nghi được với môi trường tương đối ổn định"},
+      {"C": "Phản xạ không điều kiện phải trải qua một thời gian dài rèn luyện thì mới có thể hình thành cơ chế phản ứng khi gặp kích thích"},
+      {"D": "Không có câu nào là đúng"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Khẳng định nào sau đây là sai với cấp độ tự ý thức?",
+    "answers" : [
+      {"A": "Là một mức độ của ý thức"},
+      {"B": "Cá nhân ở cấp độ này có thể tự giáo dục, tự hoàn thiện mình"},
+      {"C": "Cá nhân ở cấp độ này có thái độ với bản thân, tự nhận xét, tự đánh giá"},
+      {"D": "Hiện tượng tâm tâm lý ý thức lặp đi lặp lại nhiều lần sẽ trở thành cấp độ tự ý thức"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Phản xạ nào dưới đây không phải là phản xạ không điều kiện?",
+    "answers" : [
+      {"A": "Hắt hơi"},
+      {"B": "Tiết nước bọt"},
+      {"C": "Khi ăn và uống thì con người ăn chính, dùng thìa, nĩa"},
+      {"D": "Không có đáp án nào sai"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Vai trò nào sau đây là vai trò của quy luật lan tỏa tập trung?",
+    "answers" : [
+      {"A": "Con người có thể từ trạng thái ngủ chuyển sang trạng thái thức"},
+      {"B": "Thể hiện khả năng thành lập phản xạ có điều kiện"},
+      {"C": "Mở rộng khả năng thích nghi của con người với môi trường xung quanh"},
+      {"D": "Không có đáp án nào đúng"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Câu nào sau đây không đúng đối với hệ thần kinh cao cấp liên hệ chủ yếu với vỏ não (hoạt động đảm bảo quan hệ phức tạp)?",
+    "answers" : [
+      {"A": "Là quá trình tích lũy vốn kinh nghiệm của các cá nhân"},
+      {"B": "Là kết quả của quá trình giáo dục, tự giáo dục của mỗi cá nhân."},
+      {"C": "Là kết quả phản ánh của nhiều thế hệ mang dấu ấn của toàn bộ lịch sử phát triển xã hội loài người"},
+      {"D": "Không có đáp án nào sai"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Thành phần nào không thuộc cung phản xạ?",
+    "answers" : [
+      {"A": "Phần tiếp nhận tác động"},
+      {"B": "Phần trung tâm xử lý"},
+      {"C": "Phần dẫn ra"},
+      {"D": "Phần phản ứng"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Có bao nhiêu giai đoạn phát triển tâm lý?",
+    "answers" : [
+      {"A": "3 giai đoạn"},
+      {"B": "4 giai đoạn"},
+      {"C": "5 giai đoạn"},
+      {"D": "6 giai đoạn"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Sự phát triển của con người, cũng như sự hình thành phát  tâm lý người không chịu sự tác động bởi?",
+    "answers" : [
+      {"A": "Bởi các quy luật tự nhiên của thế giới"},
+      {"B": "Bởi các phương thức hoạt động, giao tiếp của con người"},
+      {"C": "Bởi mối quan hệ xã hội"},
+      {"D": "Không có đáp án nào sai"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Giao tiếp là?",
+    "answers" : [
+      {"A": "Sự tiếp xúc tâm lý giữa con người – con người"},
+      {"B": "Con người tri giác và ảnh hưởng, tác động qua lại lẫn nhau"},
+      {"C": "Quá trình trao đổi thông tin, cảm xúc của con người"},
+      {"D": "Cả a, b và c"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Theo tâm lý học hoạt động là?",
+    "answers" : [
+      {"A": "Phương thức tồn tại của con người trong thế giới"},
+      {"B": "Sự tiêu hao năng lượng của con người tác động vào hiện thực khách quan để thỏa mãn các nhu cầu của cá nhân"},
+      {"C": "Mối quan hệ tác động qua lại giữa con người và thế giới để tạo ra sản phẩm cả về phía bên ngoài, cả về phía con người"},
+      {"D": "Điều kiện tất yếu đảm bảo sự tồn tại của cá nhân"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Là cơ sở vật chất, nơi tồn tại của cảm giác, tri giác, tư duy, tưởng tượng, trí nhớ, chú ý, ý thức, vô thức… đó là…?",
+    "answers" : [
+      {"A": "Di truyền"},
+      {"B": "Bẩm sinh"},
+      {"C": "Não"},
+      {"D": "A và B đúng"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Đối tượng của hoạt động là gì?",
+    "answers" : [
+      {"A": "Có trước khi chủ thể tiến hành hoạt động"},
+      {"B": "Là mô hình tâm lý định hướng hoạt động của cá nhân"},
+      {"C": "Được hình thành và bộc lộ dần trong quá trình hoạt động"},
+      {"D": "Có sau khi chủ thể tiến hành hoạt động"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Quá trình thần kinh giúp hệ thần kinh thực hiện hoặc tăng độ mạnh của phản xạ đó là?",
+    "answers" : [
+      {"A": "Quá trình hưng phấn"},
+      {"B": "Quá trình ức chế"},
+      {"C": "Quá trình vừa hưng phấn vừa ức chế"},
+      {"D": "Quá trình liên hợp"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Phản xạ tự tạo trong đời sống để thích ứng với môi trường luôn biến đổi. Loại phản xạ này thường không bền vững, bản chất là hình thành đường mòn liên hệ thần kinh tạm thời giữa các trung khu thần kinh đó là?",
+    "answers" : [
+      {"A": "Phản xạ có điều kiện"},
+      {"B": "Phản xạ vô điều kiện"},
+      {"C": "Phản xạ của đầu gối"},
+      {"D": "Phản xạ của tủy sống"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Trường hợp nào sau đây được sắp xếp vào giao tiếp?",
+    "answers" : [
+      {"A": "Em bé đang ngắm cảnh đẹp thiên nhiên"},
+      {"B": "Cô giáo giảng bài"},
+      {"C": "Con khi gọi bầy"},
+      {"D": "Em bé trò chyện với chú mèo"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Trong các phát biểu sau, phát biểu nào đúng nhất?",
+    "answers" : [
+      {"A": "Tâm lý người do Thượng đế sinh ra"},
+      {"B": "Tâm lý người mang tính bẩm sinh"},
+      {"C": "Tâm lý người do con người tạo ra"},
+      {"D": "Tâm lý người là sự phản ánh hiện thực khách quan thông qua não"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Trong các ý dưới đây, ý nào không phải là đặc điểm của hoạt động?",
+    "answers" : [
+      {"A": "Hoạt động bao giờ cũng là quá trình chủ thể tiến hành các hành động trên đồ vật cụ thể."},
+      {"B": "Hoạt động do chủ thể thực hiện."},
+      {"C": "Hoạt động bao giờ cũng có mục đích là tạo ra sản phẩm thỏa mãn nhu cầu của chủ thể."},
+      {"D": "Hoạt động bao giờ cũng có đối tượng."}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Bán cầu não trái đảm trách những chức năng gì?",
+    "answers" : [
+      {"A": "Từ ngữ, con số, đường kẻ"},
+      {"B": "Bản đồ, tưởng tượng, mơ mộng"},
+      {"C": "Danh sách, lý luận, phân tích"},
+      {"D": "A & D đều đúng"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Động cơ của hoạt động là?",
+    "answers" : [
+      {"A": "Cấu trúc tâm lí bên trong của chủ thể."},
+      {"B": "Đối tượng của hoạt động"},
+      {"C": "Khách thể của hoạt động."},
+      {"D": "Bản thân quá trình hoạt động."}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Chức năng chỉ nghĩa của ngôn ngữ còn được gọi là?",
+    "answers" : [
+      {"A": "Chức năng làm công cụ hoạt động trí tuệ."},
+      {"B": "Chức năng làm phương tiện truyền đạt và nắm vững kinh nghiệm xã hội lịch sử"},
+      {"C": "Chức năng nhận thức"},
+      {"D": "Chức năng giao tiếp"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Ngôn ngữ giúp con người nhiều nhất trong lĩnh vực nào?",
+    "answers" : [
+      {"A": "Nhận thức thế giới"},
+      {"B": "Hình thành được ý thức"},
+      {"C": "Hoạt động mang tính xã hội"},
+      {"D": "Cả a, b, c"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Yếu tố giữ vai trò quyết định trực tiếp đối với sự hình thành và phát triển tâm lí, nhân cách con người là?",
+    "answers" : [
+      {"A": "Bẩm sinh di truyền"},
+      {"B": "Môi trường"},
+      {"C": "Hoạt động va giao tiếp"},
+      {"D": "Cả a và b"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Trong cấu trúc của hoạt động nói chung, thì yếu tố hoạt động được cụ thể hóa như thế nào?",
+    "answers" : [
+      {"A": "Hoạt động -> hành động -> thao tác"},
+      {"B": "Động cơ -> Hoạt động ->  hành động"},
+      {"C": "Động cơ ->  hành động -> Hoạt động"},
+      {"D": "Hành động -> Hoạt động -> thao tác"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Chủ thể của hoạt động là gì?",
+    "answers" : [
+      {"A": "Một người tiến hành"},
+      {"B": "Nhiều người tiến hành"},
+      {"C": "Một hoặc nhiều người tiến hành"},
+      {"D": "Không tiến hành"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Sự kiện sau thể hiện đặ điểm nào của hoạt động: Để trờ thành cô giáo trong tương lai, tôi xác định mục tiêu học tập rõ ràng?",
+    "answers" : [
+      {"A": "Tính gián tiếp"},
+      {"B": "Tính mục đích"},
+      {"C": "Tính đối tượng"},
+      {"D": "Cả a,b và c"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Sự kiện sau thể hiện đặc điểm nào của hoạt động: Trong học tập nhiệm vụ của tôi là phải chiếm lĩnh được các tri thức khoa học, các kỹ năng và các kỹ sảo thầy cô truyền thụ?",
+    "answers" : [
+      {"A": "Tính gián tiếp"},
+      {"B": "Tính mục đích"},
+      {"C": "Tính đối tượng"},
+      {"D": "Cả a, b và c"}
+    ],
+    "exactAns" : "C"
+  },
+  {
+    "question": "Sự kiện nào sau thể hiện đặc điểm nào của hoạt động: Trong quá trình học tập ngoại ngữ để rèn luyện các kỹ năng cơ bản là nghe - nói - đọc - viết, tôi phải sử dụng rất nhiều tài liệu và phương tiện học tập?",
+    "answers" : [
+      {"A": "Tính gián tiếp"},
+      {"B": "Tính mục đích"},
+      {"C": "Tính đối tượng"},
+      {"D": "Cả a, b và c"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Hoạt động có thể phân chia thành những loại nào?",
+    "answers" : [
+      {"A": "Hoạt động biến đổi"},
+      {"B": "Hoạt động nhận thức"},
+      {"C": "Hoạt động định hướng giá trị và hoạt động giao lưu"},
+      {"D": "Cả a, b và c"}
+    ],
+    "exactAns" : "D"
+  },
+  {
+    "question": "Lao động sản xuất của người thợ thủ công được vận hành theo nguyên tắc nào?",
+    "answers" : [
+      {"A": "Theo nguyên tắc gián tiếp"},
+      {"B": "Theo nguyên tắc trực tiếp"},
+      {"C": "Theo nguyên tắc trực tiếp hoặc gián tiếp"},
+      {"D": "Cả a và b"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Giao tiếp nhằm thực hiện nhiệm vụ chung theo chức trách, quy định, thể chế là thuộc loài giao tiếp nào?",
+    "answers" : [
+      {"A": "Chính thức"},
+      {"B": "Không chính thức"},
+      {"C": "Cả a và b đều đúng"},
+      {"D": "Cả a và b dều sai"}
+    ],
+    "exactAns" : "B"
+  },
+  {
+    "question": "Giao tiếp giữa những người hiểu biết rõ về nhau, không câu nệ về thể thức, mà theo kiểu thân tình, nhàm mục đích chính là thông cảm, đồng cảm với nhau là loại giao tiếp nào?",
+    "answers" : [
+      {"A": "Chính thức"},
+      {"B": "Không chính thức"},
+      {"C": "Cả a và b đều đúng"},
+      {"D": "Cả a và b dều sai"}
+    ],
+    "exactAns" : "A"
+  },
+  {
+    "question": "Xét về phương diện sản phẩm (vật chất, tinh thần) người ta chia làm mấy loại hoạt động lớn?",
+    "answers" : [
+      {"A": "1"},
+      {"B": "2"},
+      {"C": "3"},
+      {"D": "4"}
+    ],
+    "exactAns" : "B"
+  }
+]

@@ -1,0 +1,30 @@
+module.exports = {
+  parser: 'babel-eslint',
+  extends: ['airbnb', 'prettier'],
+  plugins: ['prettier'],
+  rules: {
+    'prettier/prettier': ['error'],
+    'react/jsx-props-no-spreading': 0,
+    'react/jsx-filename-extension': 0,
+    'jsx-a11y/anchor-is-valid': 0,
+    'consistent-return': 0,
+    'import/no-unresolved': 0,
+    'react/prop-types': ['error'],
+    'react/destructuring-assignment': 0,
+    'react/jsx-one-expression-per-line': 0,
+    'jsx-a11y/click-events-have-key-events': 0,
+    'jsx-a11y/no-noninteractive-element-interactions': 0,
+    'jsx-a11y/no-static-element-interactions': 0,
+    'no-underscore-dangle': 0,
+    'import/no-cycle': 0,
+    'react/no-array-index-key': 0,
+    camelcase: 0,
+    'react/jsx-no-target-blank': 0,
+    'no-nested-ternary': 0,
+    'react/jsx-indent': 0,
+    'no-plusplus': 0,
+    'no-unused-expressions': 0,
+    'no-case-declarations': 0,
+    'react/jsx-curly-newline': 0
+  }
+};

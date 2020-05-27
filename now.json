@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "name": "daita",
+    "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+    "routes": [
+        { "src": ".*", "headers":
+            {
+                "Access-Control-Allow-Origin": "*"
+            }
+        },
+        { 
+            "src": "/_next/static/(?:[^/]+/pages|chunks|runtime)/.+", 
+            "headers": { 
+                "cache-control": "immutable,max-age=31536000" } 
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+.winPage {
+  width: 100%;
+  // display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+
+  h1 {
+    font-weight: bold;
+    color: white;
+    padding: 16px;
+  }
+
+  .btnBack {
+    background: transparent;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+    margin-top: 16px;
+  }
+}
